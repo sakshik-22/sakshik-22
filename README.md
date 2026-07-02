@@ -4,6 +4,6 @@
 * 🤔 I’m looking for help with **AI, Machine Learning & Backend Development**
 * 💬 Ask me about **Python, Streamlit & GitHub**
 * 📫 How to reach me: **khairnarsakhii@gmail.com**
-* 💼 LinkedIn: linkedin.com/in/sakshi-khairnar-36352341b
+* 💼 LinkedIn:  https://www.linkedin.com/in/sakshi-khairnar-36352341b
 * ⚡ Fun fact: **I enjoy turning ideas into real-world projects through code.**
 
